@@ -31,7 +31,7 @@ function App() {
   },[])
   return (
     <div className='container d-flex justify-content-center align-items-center' style={{height: "100vh"}}>
-        <div className="row  w-100">
+        <div className="row d-flex justify-content-center align-items-centers w-100">
             <div className="col-12 bg-dark text-white  col-md-6  py-3 px-4 rounded">
                 <div id="quote-box">
                     <div className="quote">
